@@ -1,6 +1,6 @@
 Package: rnaseqDTU
 Title: RNA-seq workflow for differential transcript usage following Salmon quantification
-Version: 1.19.0
+Version: 1.19.1
 Date: 2018-06-27
 Authors@R: c(person(role=c("aut", "cre"), "Michael", "Love", email = "michaelisaiahlove@gmail.com"),
              person(role=c("aut"), "Charlotte", "Soneson"),
@@ -26,6 +26,6 @@ VignetteBuilder: knitr
 biocViews: Workflow, GeneExpressionWorkflow, ImmunoOncologyWorkflow
 Suggests: knitr, rmarkdown
 NeedsCompilation: no
-URL: https://github.com/mikelove/rnaseqDTU/
+URL: https://github.com/thelovelab/rnaseqDTU/
 Workflow: TRUE
 RoxygenNote: 6.0.1
